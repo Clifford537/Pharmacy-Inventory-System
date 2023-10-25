@@ -39,7 +39,7 @@ To run the Medical Records Management System on your local machine, follow these
 1. Clone this repository to your local environment:
 
    ```bash
-   git clone https://github.com/yourusername/medical-records-management.git
+   https://github.com/Clifford537/Pharmacy-Inventory-System.git
    ```
 
 2. Set up a web server environment with PHP support. You can use tools like XAMPP, WAMP, or MAMP for local development.
@@ -78,7 +78,7 @@ To run the Medical Records Management System on your local machine, follow these
 - PHP
 - HTML
 - CSS
-- MySQL (or your preferred database)
+- MySQL 
 
 ## Contributing
 
@@ -95,6 +95,4 @@ Please follow our [Code of Conduct](CODE_OF_CONDUCT.md) and [Contributing Guidel
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-```
 
-Replace placeholders like `[yourusername]` and `[yourprojectname]` with your actual repository URL and project name. Additionally, provide real test account credentials if needed for the demo section. This README file should provide a comprehensive overview of your project, its features, and how to get started with it.
